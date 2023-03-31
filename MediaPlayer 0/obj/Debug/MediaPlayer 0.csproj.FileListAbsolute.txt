@@ -1,0 +1,26 @@
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\MediaPlayer 0.exe.config
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\MediaPlayer 0.exe
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\MediaPlayer 0.pdb
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\Microsoft.DirectX.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.csprojAssemblyReference.cache
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer_0.Properties.Resources.resources
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.csproj.GenerateResource.cache
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.csproj.CopyComplete
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.exe
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.pdb
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer_0.VideoPlayer.resources
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\MediaPlayer 0.exe.manifest
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\MediaPlayer 0.application
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.exe.manifest
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.application
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer_0.SearchForm.resources
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer_0.ExplorForm.resources
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\Interop.WMPLib.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.csproj.ResolveComReference.cache
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\Interop.WMPLib.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\AxInterop.WMPLib.dll

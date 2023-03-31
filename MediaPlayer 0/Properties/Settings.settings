@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MediaPlayer_0.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderSort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Name</Value>
+    </Setting>
+    <Setting Name="FolderView" Type="System.Windows.Forms.View" Scope="User">
+      <Value Profile="(Default)">Tile</Value>
+    </Setting>
+    <Setting Name="FolderAscending" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PlaySort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Name</Value>
+    </Setting>
+    <Setting Name="PlayView" Type="System.Windows.Forms.View" Scope="User">
+      <Value Profile="(Default)">LargeIcon</Value>
+    </Setting>
+    <Setting Name="PlayAscending" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PlayMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Play All</Value>
+    </Setting>
+    <Setting Name="SortMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Name</Value>
+    </Setting>
+    <Setting Name="ScreenDisplayMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Normal</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

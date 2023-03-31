@@ -1,0 +1,52 @@
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 1.csprojAssemblyReference.cache
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\Interop.WMPLib.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 1.csproj.ResolveComReference.cache
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer_0.ExplorForm.resources
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer_0.VideoPlayer.resources
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer_0.Properties.Resources.resources
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer_0.SearchForm.resources
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 1.csproj.GenerateResource.cache
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 1.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.exe
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.pdb
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\MediaPlayer 0.exe.config
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\MediaPlayer 0.exe.manifest
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\MediaPlayer 0.application
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\MediaPlayer 0.exe
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\MediaPlayer 0.pdb
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\Microsoft.DirectX.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\Interop.WMPLib.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.exe.manifest
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 0.application
+C:\Users\AlShaheen\source\repos\MediaPlayer 0\MediaPlayer 0\obj\Debug\MediaPlayer 1.csproj.CopyComplete
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\bin\Debug\MediaPlayer 0.exe.config
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\bin\Debug\MediaPlayer 0.exe.manifest
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\bin\Debug\MediaPlayer 0.application
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\bin\Debug\MediaPlayer 0.exe
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\bin\Debug\MediaPlayer 0.pdb
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\bin\Debug\Interop.WMPLib.dll
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\bin\Debug\AxInterop.WMPLib.dll
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\Interop.WMPLib.dll
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\AxInterop.WMPLib.dll
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer 1.csproj.ResolveComReference.cache
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer_0.ExplorForm.resources
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer_0.VideoPlayer.resources
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer_0.Properties.Resources.resources
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer_0.SearchForm.resources
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer 1.csproj.GenerateResource.cache
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer 1.csproj.CoreCompileInputs.cache
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer 0.exe.manifest
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer 0.application
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer 1.csproj.CopyComplete
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer 0.exe
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer 0.pdb
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer 1.csproj.SuggestedBindingRedirects.cache
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer 1.csproj.AssemblyReference.cache
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer_0.CustomControl1.resources
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\obj\Debug\MediaPlayer_0.Sound.resources
+E:\projest\MediaPlayer\MediaPlayer 1\MediaPlayer 0\bin\Debug\Guna.UI.dll
